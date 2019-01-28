@@ -1,0 +1,7 @@
+id=arxmlenabler
+name=AR Core PlayStore Enabler
+version=v1
+versionCode=1
+author=celsoazevedo.com
+description=Enables ARCore installation and updates via the Play Store (credits: TadiT7 and his xmlpak module).
+minMagisk=17000
